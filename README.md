@@ -15,6 +15,8 @@ This project demonstrates advanced CSS techniques such as:
 
 # Live Demo
 
+[⬤ View Demo](https://ogsolarsystem.netlify.app)
+
 <img width="1920" height="1080" alt="Screenshot 2026-02-11 232605" src="https://github.com/user-attachments/assets/cdc024e0-9364-4d1e-95e3-9876bfff7a96" />
 
 
